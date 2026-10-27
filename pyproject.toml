@@ -36,7 +36,7 @@ classifiers = [
 ]
 dependencies = [
     "psycopg[binary]>=3.1",
-    "psycopg_pool>=3.1",
+    "psycopg_pool>=3.3.3",
     "python-dotenv>=1.0.0",
 ]
 
